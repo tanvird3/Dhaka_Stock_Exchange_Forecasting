@@ -44,6 +44,6 @@ termcolor==1.1.0
 urllib3==1.25.9
 Werkzeug==1.0.1
 wrapt==1.12.1
-xlrd==1.0.0
+xlrd==1.2.0
 zipp==3.1.0
 zope.interface==5.1.0
