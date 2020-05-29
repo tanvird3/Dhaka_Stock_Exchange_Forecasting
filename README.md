@@ -1,5 +1,4 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tanvird3/Dhaka_Stock_Exchange_Forecasting/master)
-
 # Forecasting Instruments of Dhaka Stock Exchange using Long Short-Term Memory Networks
 
 ### Code Explanation
