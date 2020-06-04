@@ -5,7 +5,7 @@ certifi==2020.4.5.1
 chardet==3.0.4
 cycler==0.10.0
 DateTime==4.3
-gast==0.3.3
+gast==0.2.2
 google-auth==1.16.0
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
